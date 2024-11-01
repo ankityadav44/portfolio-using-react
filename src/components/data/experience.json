@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "role": "Site Engineer",
+    "organisation": "Shri Shiddhanath Constructions",
+    "location": "Kanpur Nagar",
+    "imageSrc": "company/civil.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Development trainee",
+    "location": "Gurugram, Haryana",
+    "organisation": "Acciojob",
+    "imageSrc": "company/acciojob1.png"
+  }
+]
